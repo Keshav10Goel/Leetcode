@@ -13,7 +13,6 @@ class Solution {
                 i++;
                 l-=8;
             }
-            if(l>0)
             x+=i*l;
             return x;
         }
