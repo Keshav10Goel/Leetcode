@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Keshav10Goel/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Keshav10Goel/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0414-third-maximum-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Keshav10Goel/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Keshav10Goel/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
 | ------- |
