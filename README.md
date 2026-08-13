@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Keshav10Goel/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Keshav10Goel/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
