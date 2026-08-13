@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Keshav10Goel/Leetcode/tree/master/0066-plus-one) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Keshav10Goel/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Keshav10Goel/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Keshav10Goel/Leetcode/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0414-third-maximum-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Keshav10Goel/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Keshav10Goel/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
