@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Keshav10Goel/Leetcode/tree/master/0724-find-pivot-index) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Keshav10Goel/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Keshav10Goel/Leetcode/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/Keshav10Goel/Leetcode/tree/master/0724-find-pivot-index) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Keshav10Goel/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Keshav10Goel/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
