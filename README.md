@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Keshav10Goel/Leetcode/tree/master/0038-count-and-say) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
