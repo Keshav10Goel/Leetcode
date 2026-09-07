@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Keshav10Goel/Leetcode/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/Keshav10Goel/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Keshav10Goel/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0015-3sum) |
+| [0151-reverse-words-in-a-string](https://github.com/Keshav10Goel/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
