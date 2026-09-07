@@ -1,7 +1,7 @@
 class Solution {
     public String reverseWords(String s) {
         s=s.trim();
-        s=s;
+        
 
         StringBuilder str= new StringBuilder();
         int f=0;
