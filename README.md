@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Keshav10Goel/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Keshav10Goel/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Keshav10Goel/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Keshav10Goel/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Keshav10Goel/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0414-third-maximum-number) |
 | [1200-minimum-absolute-difference](https://github.com/Keshav10Goel/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Keshav10Goel/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Keshav10Goel/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Bit Manipulation
 |  |
