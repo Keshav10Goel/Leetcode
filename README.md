@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Keshav10Goel/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Keshav10Goel/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Keshav10Goel/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Keshav10Goel/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Keshav10Goel/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Keshav10Goel/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0268-missing-number) |
