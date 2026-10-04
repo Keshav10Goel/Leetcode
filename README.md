@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Keshav10Goel/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Keshav10Goel/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Keshav10Goel/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Keshav10Goel/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Keshav10Goel/Leetcode/tree/master/0162-find-peak-element) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Keshav10Goel/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Keshav10Goel/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0414-third-maximum-number) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Keshav10Goel/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Keshav10Goel/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Keshav10Goel/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Bit Manipulation
@@ -133,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Keshav10Goel/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Keshav10Goel/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Keshav10Goel/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
