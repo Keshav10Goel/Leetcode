@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Keshav10Goel/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Keshav10Goel/Leetcode/tree/master/0053-maximum-subarray) |
@@ -109,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Keshav10Goel/Leetcode/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Keshav10Goel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Keshav10Goel/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Keshav10Goel/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Keshav10Goel/Leetcode/tree/master/0075-sort-colors) |
