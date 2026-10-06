@@ -1,46 +1,37 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List <List<Integer>> a= new ArrayList<>();
-        if(nums.length<=2)
-        return a;
-        int i=0;
-        int j=i+1;
-        int k=nums.length-1;
+        List<List<Integer>> arr = new ArrayList<>();
         Arrays.sort(nums);
-        for(i=0;i<nums.length-2;i++)
-        {   
+        for(int i=0;i<nums.length;i++)
+        {
             if(i>0 && nums[i]==nums[i-1])
             continue;
-            if(nums[i]>0)
-            break;
-            j=i+1;
-            k=nums.length-1;
-            
-            while(j<k)
+            int x=i;
+            int y=x+1;
+            int z=nums.length-1;
+            while(y<z)
             {
-                if(nums[i]+nums[j]+nums[k]==0)
+                if((nums[x]+nums[y]+nums[z])==0)
                 {
-                    List<Integer> b= new ArrayList<>();
-                    b.add(nums[i]);
-                    b.add(nums[j]);
-                    b.add(nums[k]);
-                    a.add(b);
-                    
-                    j++;
-                    k--;
-                    while(j<k && nums[j]==nums[j-1])
-                j++;
-                while(j<k && nums[k]==nums[k+1])
-                k--;
+                    List <Integer> a= new ArrayList<>();
+                    a.add(nums[x]);
+                    a.add(nums[y]);
+                    a.add(nums[z]);
+                    arr.add(a);
+                    y++;
+                    z--;
+                    while(y<z && nums[y]==nums[y-1])
+                    y++;
+                    while(y<z && nums[z]==nums[z+1]&& z<nums.length-1)
+                    z--;
                 }
-                
-                else if(nums[i]+nums[j]+nums[k]<0)
-                j++;
+                else if((nums[x]+nums[y]+nums[z])<0)
+                y++;
                 else
-                k--;
+                z--;
             }
             
         }
-        return a;
+        return arr;
     }
 }
