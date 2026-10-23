@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Keshav10Goel/Leetcode/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Keshav10Goel/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Keshav10Goel/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Keshav10Goel/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Keshav10Goel/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Keshav10Goel/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Keshav10Goel/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Keshav10Goel/Leetcode/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Keshav10Goel/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Recursion
 |  |
 | ------- |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Keshav10Goel/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Keshav10Goel/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
